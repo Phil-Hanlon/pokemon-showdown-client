@@ -6526,7 +6526,7 @@ exports.BattleItems = {
 	},
 	pharaoniccrown: {
 		name: "Pharaonic Crown",
-		spritenum: 0,
+		spritenum: 236,
 		fling: { basePower: 80 },
 		onModifySpDPriority: 1,
 		num: -100,
